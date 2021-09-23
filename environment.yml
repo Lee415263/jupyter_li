@@ -10,7 +10,6 @@ dependencies:
     - pandas
     - thinc
     - pyecharts
-    - os
     - datetime
     - bs4
 
